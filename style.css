@@ -1,0 +1,25 @@
+
+.style {
+  color: #004E7C;
+  font-size: 18px;
+  /* font-family: Bahnschrift; */
+}
+
+#heading {
+  font-size: 40px;
+  /* font-family:Bahnschrift ; */
+}
+
+.style,
+#heading {
+  font-family: Bahnschrift;
+}
+
+.uppercase {
+  font-family: cursive;
+  text-transform: uppercase;
+}
+
+#heading:hover {
+  color:gold  ;
+}
