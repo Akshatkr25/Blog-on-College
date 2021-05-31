@@ -1,2 +1,2 @@
-# Adapting in college life
- Blog on Adapting in college life
+# Adapting to college life
+ Blog on Adapting to college life
