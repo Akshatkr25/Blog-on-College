@@ -1,6 +1,5 @@
-
 .style {
-  color: #004E7C;
+  color: #004e7c;
   font-size: 18px;
   /* font-family: Bahnschrift; */
 }
@@ -21,5 +20,13 @@
 }
 
 #heading:hover {
-  color:gold  ;
+  color: gold;
+}
+
+.uppercase:hover{
+  color: brown;
+}
+
+.cold{
+  filter:brightness(70%) contrast(150%) saturate(0%) brightness(150%);
 }
